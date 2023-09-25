@@ -5,7 +5,7 @@
 <hr>
 Go to the <a href="https://www.thingiverse.com/thing:6218215">Thingverse project page</a>
 <hr>
-Download the last 3D-parts files (.stl) in the <a href="#">releases</a> section.
+Download the last 3D-parts files (.stl) in the <a href="https://github.com/Openpipes-org/Volume_pedal_sensor_support/releases">releases</a> section.
 <hr>
 ⚠️ Under construction
 
