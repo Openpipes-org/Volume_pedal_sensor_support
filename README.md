@@ -5,7 +5,7 @@
 ![alt text](#)
 
 <hr>
-Go to the <a href="#">Thingverse project page</a>
+Go to the <a href="https://www.thingiverse.com/thing:6218215">Thingverse project page</a>
 <hr>
 Download the last 3D-parts files (.stl) in the <a href="#">releases</a> section.
 <hr>
